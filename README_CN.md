@@ -1,5 +1,7 @@
 此项目为本人在进行ObjectArx练习时的总结
 
+[English]([wozhuyinghao/ObjectArx (github.com)](https://github.com/wozhuyinghao/ObjectArx#readme_en))
+
 # 参考项目
 
 [lysjq/AutoCAD-ObjectArx: AutoCAD-ObjectARX最常用功能封装，便于日常调用 (github.com)](https://github.com/lysjq/AutoCAD-ObjectArx)
