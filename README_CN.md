@@ -1,6 +1,6 @@
 此项目为本人在进行ObjectArx练习时的总结
 
-[English]([wozhuyinghao/ObjectArx (github.com)](https://github.com/wozhuyinghao/ObjectArx#readme_en))
+[English](https://github.com/wozhuyinghao/ObjectArx/blob/master/README_EN.md)
 
 # 参考项目
 

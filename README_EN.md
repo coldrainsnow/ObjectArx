@@ -1,6 +1,6 @@
 This project is a summary of my ObjectArx practice
 
-[中文]([wozhuyinghao/ObjectArx (github.com)](https://github.com/wozhuyinghao/ObjectArx#readme_cn))
+[中文](https://github.com/wozhuyinghao/ObjectArx/blob/master/README_CN.md)
 
 # Reference project
 
