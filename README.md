@@ -1,7 +1,5 @@
 此项目为本人在进行ObjectArx练习时的总结
 
-[English](https://github.com/wozhuyinghao/ObjectArx/blob/master/README_EN.md)
-
 # 参考项目
 
 [lysjq/AutoCAD-ObjectArx: AutoCAD-ObjectARX最常用功能封装，便于日常调用 (github.com)](https://github.com/lysjq/AutoCAD-ObjectArx)
@@ -35,6 +33,7 @@ static void CMDTEST()
 | 定义图层，并且查看他的id                                     | LayerDefinitionAndIdViewer.cpp |
 | 将当前图纸中存在的所有图层及其特性(图层名称、颜色、图层线型、图层线宽等)导出到指定的文本文件中 | LayerExportToFile.cpp          |
 | 按照指定文本文件中的图层列表属性(图层名称、颜色、图层线型、图层线宽等)在当前图形中创建图层 （获取到的中文名称乱码，目前有bug） | LayerImporter.cpp              |
+| 获取当前图层中的实体                                         | LayerEntityRetriever.cpp       |
 
 | 块         | 对应文件                  |
 | ---------- | ------------------------- |

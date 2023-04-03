@@ -35,6 +35,7 @@ static void CMDTEST()
 | Define a layer and view its ID                               | LayerDefinitionAndIdViewer.cpp |
 | Export all layers in the current drawing and their attributes (layer name, color, layer line type, layer line width, etc.) to a specified text file | LayerExportToFile.cpp          |
 | Create layers with the properties (layer name, color, layer line type, layer line width, etc.) listed in the specified text file in the current drawing (The Chinese name obtained is garbled, currently has a bug) | LayerImporter.cpp              |
+| Get Current Layer Entities                                   | LayerEntityRetriever.cpp       |
 
 | Block                         | Associated Files          |
 | ----------------------------- | ------------------------- |
