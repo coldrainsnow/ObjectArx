@@ -19,11 +19,13 @@ static void CMDTEST()
 }
 ```
 
-| 绘图               | 对应文件               |
-| ------------------ | ---------------------- |
-| 自定义两点创建直线 | CustomLineCommands.cpp |
-| 圆                 | CircleCommands.cpp     |
-| 多段线             | PolylineCommands.cpp   |
+| 绘图                                     | 对应文件                |
+| ---------------------------------------- | ----------------------- |
+| 自定义两点创建直线                       | CustomLineCommands.cpp  |
+| 圆                                       | CircleCommands.cpp      |
+| 多段线                                   | PolylineCommands.cpp    |
+| 获取选中点的坐标                         | GetSelectPoint.cpp      |
+| 获取选中点的坐标并把坐标转换为一个字符串 | GetSelectPointToStr.cpp |
 
 | 图层                                                         | 对应文件                       |
 | ------------------------------------------------------------ | ------------------------------ |

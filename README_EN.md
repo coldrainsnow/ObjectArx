@@ -19,11 +19,13 @@ static void CMDTEST()
 }
 ```
 
-| Drawing                          | Associated Files       |
-| -------------------------------- | ---------------------- |
-| Customize a line with two points | CustomLineCommands.cpp |
-| Circle                           | CircleCommands.cpp     |
-| Polyline                         | PolylineCommands.cpp   |
+| Drawing                                                      | Associated Files        |
+| ------------------------------------------------------------ | ----------------------- |
+| Customize a line with two points                             | CustomLineCommands.cpp  |
+| Circle                                                       | CircleCommands.cpp      |
+| Polyline                                                     | PolylineCommands.cpp    |
+| Get the coordinates of the selected point                    | GetSelectPoint.cpp      |
+| Get the coordinates of the selected point and convert the coordinates to a string | GetSelectPointToStr.cpp |
 
 | Layer                                                        | Associated Files               |
 | ------------------------------------------------------------ | ------------------------------ |
